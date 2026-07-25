@@ -37,7 +37,7 @@ CivicAI is a full-stack civic grievance platform where citizens can file complai
 
 ## 🎬 Demo
 
-> 🚀 **Live App:** https://htm-freiats65-priyanshu-srivastavs-projects.vercel.app
+> 🚀 **Live App:** https://htm-blush.vercel.app/
 
 **Demo Credentials:**
 - **Citizen** — file & track complaints
